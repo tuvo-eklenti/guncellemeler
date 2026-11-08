@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "tuvo@tuvo-extension": {
+      "updates": [
+        {
+          "version": "1.1.1",
+          "update_link": "https://github.com/tuvo-eklenti/guncellemeler/releases/download/v1.1.1/tuvo-1.1.1.xpi",
+          "update_hash": "sha256:e362746467aab449ed7f01216ce3c557cd9f166de2f253ddc54ecd3e8fa361df"
+        }
+      ]
+    }
+  }
+}
