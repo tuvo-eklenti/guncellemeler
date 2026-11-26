@@ -21,6 +21,11 @@
           "version": "1.4.0",
           "update_link": "https://github.com/tuvo-eklenti/guncellemeler/releases/download/v1.4.0/tuvo-1.4.0.xpi",
           "update_hash": "sha256:e6b68ed6d2f4d992c71d90960c3cc18b082746b21ecac8248ddf3e4480b6cfa7"
+        },
+        {
+          "version": "1.4.1",
+          "update_link": "https://github.com/tuvo-eklenti/guncellemeler/releases/download/v1.4.1/tuvo-1.4.1.xpi",
+          "update_hash": "sha256:869829ab586d0ebf7db8ecfd30312b67777081a89b16d9d3abdafee992036d2c"
         }
       ]
     }
